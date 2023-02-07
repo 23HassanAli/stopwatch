@@ -1,0 +1,15 @@
+.stopwatchButtons{
+    display: flex;
+    flex-direction: row;
+}
+.buttons{
+    padding: 25px;
+    border: 1px black solid;
+    margin: 10px;
+    width: 250px;
+    font-size: 25px;
+    background-color: white;
+}
+.time{
+    font-size: 30px;
+}
